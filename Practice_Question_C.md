@@ -4,11 +4,11 @@ C Programming Practice Questions (100)
 	1.	Write a C program to print Hello, World! using printf().
 	2.	Write a program to print your name, age, and city using printf().
 	3.	Write a program to print the following pattern using printf():
-		*
-		**
-		***
-		****
-		*****
+		`*`
+		`**`
+		`***`
+		`****`
+		`*****`
 
 	4.	Write a program to print a multiplication table of 5 using printf().
 	5.	Write a program to print the following format:
